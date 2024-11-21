@@ -13,11 +13,10 @@
 - **Git & GitHub**：使用 Git 進行版本控制，所有源代碼托管於 GitHub，並通過 GitHub Pages 部署網站。
   
 ## 目標功能
-
-- **熱門美食**：展示近期最受歡迎的項目，並且提供每個詳細介紹及來源連結。
-- **網紅評論**：收集來自youtuber的評論，並提供其來源連結，讓使用者了解真實的評論。
-- **熱銷地點**：推薦各大城市的熱門美食地點，並提供相關地點的詳細資料和來源。
-- **資料來源**：每個美食、評論、地點、遊戲項目都提供相應的資料來源連結，確保資訊的可靠性。
+*熱門美食：展示近期最受歡迎的項目，並且提供每個詳細介紹及來源連結。
+ 網紅評論：收集來自youtuber的評論，並提供其來源連結，讓使用者了解真實的評論。
+熱銷地點：推薦各大城市的熱門美食地點，並提供相關地點的詳細資料和來源。
+資料來源：每個美食、評論、地點、遊戲項目都提供相應的資料來源連結，確保資訊的可靠性。
 
 ## 網站結構
 
@@ -35,7 +34,7 @@
    ```bash
    git clone https://github.com/yourusername/近期紅什麼.git
    cd 最近紅什麼
-安裝依賴：
+## 安裝依賴：
 
 bash
 複製程式碼
@@ -53,7 +52,7 @@ npm start
 bash
 複製程式碼
 npm run deploy
-部署後，您的網站將會在 GitHub Pages 上上線。請將部署完成後的 URL 提交給教師或用於展示。
+部署後，網站將會在 GitHub Pages 上上線。
 
 文件結構
 plaintext
@@ -69,21 +68,19 @@ plaintext
 ├── package.json           # 專案依賴與配置
 ├── README.md              # 這份文件
 └── ...
-貢獻
-如果您想貢獻於此專案，請遵循以下步驟：
+
 
 Fork 本專案。
 創建一個新的分支（git checkout -b feature-xyz）。
-提交您的變更（git commit -am 'Add feature xyz'）。
-推送至您的分支（git push origin feature-xyz）。
+提交變更（git commit -am 'Add feature xyz'）。
+推送分支（git push origin feature-xyz）。
 開啟 Pull Request。
 資料來源
 美食趨勢資料
 美食評論資料
 遊戲介紹資料
 地點資料來源
-授權
-本專案使用 MIT 授權，詳細授權條款請參見 LICENSE 文件。
 
-markdown
-複製程式碼
+
+github page
+https://yangchendai.github.io/group18/
