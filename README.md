@@ -44,48 +44,7 @@ npm install
 bash
 複製程式碼
 npm start
-開啟瀏覽器並訪問 http://localhost:3000，即可在本地查看網站。
-
-部署至 GitHub Pages
-確保已經配置好 gh-pages 分支：
-
-bash
-複製程式碼
-npm run deploy
-部署後，網站將會在 GitHub Pages 上上線。
-
-文件結構
-plaintext
-複製程式碼
-├── public/
-│   ├── index.html         # HTML 主文件
-│   └── ...
-├── src/
-│   ├── components/        # 各頁面元件
-│   ├── pages/             # 頁面組件（如 Trending, Reviews, Locations）
-│   ├── App.tsx            # 根元件
-│   └── index.tsx          # 進入點
-├── package.json           # 專案依賴與配置
-├── README.md              # 這份文件
-└── ...
-
-
-Fork 本專案。
-創建一個新的分支（git checkout -b feature-xyz）。
-提交變更（git commit -am 'Add feature xyz'）。
-推送分支（git push origin feature-xyz）。
-開啟 Pull Request。
-資料來源
-美食趨勢資料
-美食評論資料
-遊戲介紹資料
-地點資料來源
-
-
-## 分工
-楊竣安: 查資料 設計程式
-陳奕嘉: 查資料 設計程式
-戴侑玲: 查資料 製作ppt 錄製報告影片 講報告 
+開啟瀏覽器並訪問 ht。
 
 github page
 https://yangchendai.github.io/group18/
