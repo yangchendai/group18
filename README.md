@@ -46,5 +46,10 @@ bash
 npm start
 開啟瀏覽器並訪問 ht。
 
+## 分工
+楊竣安: 查資料 ，設計程式
+陳奕嘉: 查資料 ，設計程式
+戴侑玲: 查資料 ，製作ppt，報告 
+
 github page
 https://yangchendai.github.io/group18/
