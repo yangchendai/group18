@@ -32,7 +32,7 @@
 1. 克隆此專案到本地：
 
    ```bash
-   git clone https://github.com/yourusername/近期紅什麼.git
+   (https://github.com/yangchendai/group18.git)
    cd 最近紅什麼
 ## 安裝：
 
