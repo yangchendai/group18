@@ -48,8 +48,8 @@ npm start
 
 ## 分工，貢獻度
 楊竣安: 查資料 ，設計程式，55%
-陳奕嘉: 查資料 ，製作ppt，設計程式，30%
-戴侑玲: 查資料 ，製作ppt， 報告，15%
+陳奕嘉: 查資料 ，製作ppt，設計程式，35%
+戴侑玲: 查資料 ，製作ppt， 報告，10%
 
 github page
 https://yangchendai.github.io/group18/
